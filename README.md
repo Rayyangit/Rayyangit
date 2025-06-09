@@ -12,19 +12,19 @@
 ## 📊 GitHub Stats & Info
 
 <!-- Total GitHub views badge -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Rayyangit&style=flat-square&color=blue)
 
 <!-- GitHub Contribution Calendar -->
-![GitHub Contribution](https://github.com/YOUR_GITHUB_USERNAME.png?tab=overview&from=2024-01-01&to=2024-12-31)
+![GitHub Contribution](https://github.com/Rayyangit.png?tab=overview&from=2024-01-01&to=2024-12-31)
 
 <!-- GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&hide_title=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rayyangit&show_icons=true&count_private=true&hide_title=true&theme=radical)
 
 <!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayyangit&layout=compact&theme=radical)
 
 <!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rayyangit&theme=radical)
 
 ---
 
