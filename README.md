@@ -7,6 +7,26 @@
 - 💡 Ask me about: **Core Java, Spring Boot, React.js, FastAPI, and AI/ML frameworks (TensorFlow, PyTorch)**.
 - 🌍 Fun fact: **I love exploring futuristic AI systems and tech innovations!**
 
+---
+
+## 📊 GitHub Stats & Info
+
+<!-- Total GitHub views badge -->
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue)
+
+<!-- GitHub Contribution Calendar -->
+![GitHub Contribution](https://github.com/YOUR_GITHUB_USERNAME.png?tab=overview&from=2024-01-01&to=2024-12-31)
+
+<!-- GitHub Stats Card -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&hide_title=true&theme=radical)
+
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
+
+---
 
 ## 🛠 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,6 +53,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%230000FF.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+---
 
 ## 📚 Learning Goals for 2025:
 - ✅ Master **Data Structures & Algorithms (DSA)**.
@@ -48,3 +69,14 @@
 ---
 
 ### **📢 Let's Connect & Collaborate! 🚀**
+
+---
+
+### How to use:
+- Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username in all badge URLs.
+- The stats cards dynamically update based on your GitHub activity.
+- For contribution calendar, you might want to explore [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) and customize date ranges as needed.
+
+---
+
+If you want, I can help you generate the exact markdown snippet ready with your username! Just share your GitHub handle.
