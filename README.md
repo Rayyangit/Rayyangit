@@ -64,23 +64,13 @@
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%230000FF.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-### 📚 Concepts:
-- Object-Oriented Programming (OOP)
-- R Programming
 
----
+
 
 ## 📚 Learning Goals for 2025:
 - ✅ Master **Data Structures & Algorithms (DSA)**.
 - ✅ Work on **Deep Learning & AI Security**.
 - ✅ Contribute to **Open Source Projects**.
 
----
-
-## 🎯 Fun Fact:
-🚀 I love exploring futuristic AI systems & tech innovations!  
-🎵 I enjoy **music, cricket, and traveling** in my free time.
-
----
 
 ### **📢 Let's Connect & Collaborate! 🚀**
