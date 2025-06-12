@@ -1,6 +1,3 @@
-Here’s your updated `README` section with an additional badge highlighting the project you’ve contributed to the most on GitHub:
-
----
 
 # Hi there 👋
 
